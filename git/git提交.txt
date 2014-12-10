@@ -1,0 +1,7 @@
+################################
+#git一次完整的提交过程
+###########################
+git add .
+git commit . -m ""
+git pull origin mailda
+git push origin mailda
